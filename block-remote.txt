@@ -1,0 +1,13 @@
+teamviewer.com
+anydesk.com
+relay.teamviewer.com
+router.anydesk.com
+join.me
+logmein.com
+go2assist.com
+remote.pcanywhere.com
+vnc.com
+ultravnc.com
+chrome-remote-desktop.google.com
+splashtop.com
+connectwise.com
